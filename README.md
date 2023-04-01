@@ -24,4 +24,4 @@ g++ Chip_8.cpp -o Chip8 `sdl2-config --cflags --libs`
 ```
 ./Chip8 10 3 'Tetris [Fran Dachille, 1991].ch8'
 ```
-For example. The repo comes with a test Tetris ROM to test the emulator.s
+For example. The repo comes with a test Tetris ROM to test the emulator.
